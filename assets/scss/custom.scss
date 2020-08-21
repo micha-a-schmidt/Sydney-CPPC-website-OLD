@@ -1,0 +1,13 @@
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.logo-col {
+  float: left;
+  width: 30%;
+  padding: 10px;
+}
+
+/* Clear floats after image containers */
+.logo-row::after {
+  content: "";
+  clear: both;
+  display: table;
+}

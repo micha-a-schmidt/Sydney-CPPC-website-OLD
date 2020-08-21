@@ -1,0 +1,16 @@
+{{ $paramCount := len .Params }}
+{{ if gt $paramCount 0 }}
+<div class="logo-row">
+{{ range $param := .Params }}
+  {{ $items := split $param "|" }}
+  {{ $itemCount := len $items }}
+    <div class="logo-col">
+	    <a href="{{ index $items 2 }}" target=_new>
+		<img width=100% 
+        	src="{{ index $items 0 }}"
+        	alt="{{ index $items 1 }}">
+	    </a>
+    </div>
+{{ end }}
+</div>
+{{ end }}
