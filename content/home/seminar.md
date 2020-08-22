@@ -22,11 +22,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+   color = "SkyBlue"
   
   # Background gradient.
-   gradient_start = "DeepSkyBlue"
-   gradient_end = "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
 #  image = "headers/bubble.jpg"  # Name of image in `static/img/`# https://home.cern/news/news/accelerators/lhc-experiments-join-forces-zoom-higgs-boson.
