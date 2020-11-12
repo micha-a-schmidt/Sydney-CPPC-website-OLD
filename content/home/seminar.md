@@ -54,7 +54,7 @@ subtitle = ""
 
 +++
 
-Sydney-CPPC organizes a regular seminar series via [Zoom](https://uni-sydney.zoom.us/j/610935631) which is open to everyone. The usual time for the seminars is Thursdays 16:00 in Sydney. Just click the link above to connect.
+Sydney-CPPC organizes a regular seminar series via [Zoom](https://uni-sydney.zoom.us/j/610935631) which is open to everyone. The usual time for the seminars is Thursdays 16:00 in Sydney. Just click the link above to connect. The recordings of most of the seminars are available via our [Youtube channel](https://www.youtube.com/channel/UCtVYU6uw6Xu1UWq6OvLbpvg).
 
 Past seminars and a detailed schedule of future events can be found on [indico](https://indico.cern.ch/category/12731/), which also provides a [calendar](https://indico.cern.ch/export/categ/12731.ics?from=-31d) with all upcoming events.
 
