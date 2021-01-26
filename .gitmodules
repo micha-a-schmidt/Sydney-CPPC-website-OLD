@@ -1,6 +1,0 @@
-[submodule "themes/academic"]
-	path = themes/academic
-	url = https://github.com/gcushen/hugo-academic.git
-[submodule "public"]
-	path = public
-	url = git@github.com-cppc:sydney-cppc/sydney-cppc.github.io.git
