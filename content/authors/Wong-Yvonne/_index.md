@@ -68,15 +68,15 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Academic Staff
-#- Vistor
 ---
-###Research interests
+
+### Research interests
 Cosmic microwave background, Large-scale structure, Particle physic-cosmology connection, Neutrinos and other weakly-interacting light particles
 
-###Publications
+### Publications
 See [https://inspirehep.net/authors/983226](https://inspirehep.net/authors/983226)
 
-###Research students
+### Research students
 PhD
 * Jack Bennett
 * Joe Chen

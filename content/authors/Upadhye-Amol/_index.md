@@ -70,9 +70,9 @@ user_groups:
 - Research Associates
 ---
 
-###Research interest
+### Research interest
 Dark energy, cosmological neutrinos, large-scale structure
 
-###Publications
+### Publications
 See [https://inspirehep.net/authors/1039202](https://inspirehep.net/authors/1039202).
 

@@ -60,10 +60,10 @@ email: ""
 user_groups:
 - Students
 ---
-###Research interest
+### Research interest
 Dark matter, cosmological neutrinos, N-body simulations of large-scale structure.  Jointedly supervised by Prof Celine Boehm and A/Prof Yvonne Wong.
 
-###Selected publications
+### Selected publications
 1. M R. Mosbech, C. Boehm, S. Hannestad, O. Mena, J. Stadler, and Y. Y. Y. Wong, *The full Boltzmann hierarchy for dark matter-massive neutrino interactions*, [arXiv:2011.04206 [astro-ph.CO]](https://arxiv.org/abs/2011.04206).
 
 
