@@ -60,4 +60,13 @@ email: ""
 user_groups:
 - Students
 ---
+### Research interests
+Cosmological neutrinos, cosmological perturbation theory, N-body simulations of large-scale structure.  Supervised by A/Prof Yvonne Wong.
+
+### Selected publications
+1. G. Barenboim, J. Z. Chen, S. Hannestad, I. M. Oldengott, T. Tram, and Y. Y. Y. Wong, *Invisible neutrino decay in precision cosmology*, [arXiv:2011.01502 [astro-ph.CO]](https://arxiv.org/abs/2011.015602).
+
+2. J. Z. Chen, A. Upadhye, and Y. Y. Y .Wong, *The cosmic neutrino background as a collection of fluids in large-scale structure simulations*, [arXiv:2011.12503 [astro-ph.CO]](https://arxiv.org/abs/2011.12503).
+
+3. J. Z. Chen, A. Upadhye, and Y. Y. Y .Wong, *One line to run them all: SuperEasy massive neutrino linear response in N-body simulations*, [arXiv:2011.12504 [astro-ph.CO]](https://arxiv.org/abs/2011.12504).
 

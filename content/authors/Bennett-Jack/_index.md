@@ -60,4 +60,15 @@ email: ""
 user_groups:
 - Students
 ---
+### Research interests
+Precision calculation of the effective number of neutrinos Neff. Supervised by A/Prof Wong.
+
+### Selected publications
+1. J. J. Bennett, G. Buldgen, M. Drewes, and Y. Y. Y. Wong, *Towards a precision calculation of the effective number of neutrinos 
+Neff in the Standard Model I: The QED equation of state*, JCAP 03 (2020) 003 [arXiv:1911.04504 [hep-ph]](https://arxiv.org/abs/1911.04504).
+
+2. J. J. Bennett, G. Buldgen, P. F. de Salas, M. Drewes, S. Gariazzo, S. Pastor, and Y. Y. Y. Wong, *Towards a precision calculation of Neff in the Standard Model II: Neutrino decoupling in the presence of flavour oscillations and finite-temperature QED*, [arXiv:2012.02726 [hep-ph]](https://arxiv.org/abs/2012.02726).
+
+
+
 
