@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Andre Huang
+name: Dominic Agius
 
 # Username (this should match the folder name)
 authors:
-- Huang-Andre
+- Agius-Dominic
 
 # Is this the primary user of the site?
 superuser: false
@@ -58,7 +58,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
-#- Students
+- Students
 ---
 
