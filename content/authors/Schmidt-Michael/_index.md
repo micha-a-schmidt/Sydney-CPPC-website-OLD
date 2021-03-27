@@ -85,10 +85,4 @@ PhD students
 * [Cosmin Dumitrescu](http://www.sydney-cppc.org/authors/dumitrescu-cosmin)
 * [Tobias Felkl](http://www.sydney-cppc.org/authors/felkl-tobias)
 * [Adam Lackner](http://www.sydney-cppc.org/authors/lackner-adam)
-* [Giovanni Pierobon](http://www.sydney-cppc.org/authors/pierobon-giovanni)
 
-Honours students
-* [Sze-Lok Li](http://www.sydney-cppc.org/authors/li-sze-lok)
-
-Undergraduate students
-* Tomer Libman
