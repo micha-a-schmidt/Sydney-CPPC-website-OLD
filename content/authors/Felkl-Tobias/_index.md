@@ -62,4 +62,7 @@ user_groups:
 ---
 
 ### Research Interests
-Tobias's research is focussed on the phenomenology of neutrino mass models and flavour physics. His PhD supervisor is [Dr. Michael Schmidt](http://www.sydney-cppc.org/authors/schmidt-michael).
+Tobias's research currently focuses on the phenomenology of neutrino mass models and aspects of flavour physics. His PhD supervisor is [Dr. Michael Schmidt](http://www.sydney-cppc.org/authors/schmidt-michael).
+
+### Selected Publications
+1. T. Felkl, J. Herrero-Garcia, M. A. Schmidt - *The Singly-Charged Scalar Singlet as the Origin of Neutrino Masses* - [e-Print: 2102.09898](https://arxiv.org/abs/2102.09898)
